@@ -79,10 +79,10 @@
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/ShimotsukiRioma">
-                    <img src="https://avatars.githubusercontent.com/u/115784649?v=4" width="100;" alt="ShimotsukiRioma"/>
+                <a href="https://github.com/fuyurost">
+                    <img src="https://avatars.githubusercontent.com/u/115784649?v=4" width="100;" alt="fuyurost"/>
                     <br />
-                    <sub><b>霜月 澪真</b></sub>
+                    <sub><b>fuyurost</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -100,6 +100,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Yukino-fox">
+                    <img src="https://avatars.githubusercontent.com/u/222755711?v=4" width="100;" alt="Yukino-fox"/>
+                    <br />
+                    <sub><b>Yukino_fox</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AloneAnyu">
                     <img src="https://avatars.githubusercontent.com/u/209232283?v=4" width="100;" alt="AloneAnyu"/>
                     <br />
@@ -113,6 +120,8 @@
                     <sub><b>example123</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/SnowCodeDev">
                     <img src="https://avatars.githubusercontent.com/u/195619350?v=4" width="100;" alt="SnowCodeDev"/>
@@ -120,8 +129,6 @@
                     <sub><b>SnowCode</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/slqwqxd">
                     <img src="https://avatars.githubusercontent.com/u/109799548?v=4" width="100;" alt="slqwqxd"/>
@@ -148,13 +155,6 @@
                     <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
                     <br />
                     <sub><b>SkyEx（username乱打的</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/fox-block-offcial">
-                    <img src="https://avatars.githubusercontent.com/u/222755711?v=4" width="100;" alt="fox-block-offcial"/>
-                    <br />
-                    <sub><b>Yuniko_fox</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -246,10 +246,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/SHANFENG5302">
-                    <img src="https://avatars.githubusercontent.com/u/143256405?v=4" width="100;" alt="SHANFENG5302"/>
+                <a href="https://github.com/CoolMount">
+                    <img src="https://avatars.githubusercontent.com/u/143256405?v=4" width="100;" alt="CoolMount"/>
                     <br />
-                    <sub><b>Fire Mountain</b></sub>
+                    <sub><b>FireMount</b></sub>
                 </a>
             </td>
 		</tr>
