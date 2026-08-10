@@ -1,19 +1,10 @@
-<!-- # 冇得医hub
-###### 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿 -->
-
 <div align="center">
-
-<image src="http://m.qpic.cn/psc?/V51UyG6T2hLdbN0oEgHl3fEkH73KqJt7/TmEUgtj9EK6.7V8ajmQrEEsEylM*52lTktZHLze*PTbMCd2wg4o5kkEyKNVsVL9UM5xK4GLClF.TOL*ty*FnqAuxBQmobbAoJ.gYMo62EQY!/mnull&bo=wADAAAAAAAADByI!&rf=photolist&t=5" height="64"/>
 
 # 冇得医hub
 
-展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
+展示亿些冇得医交流群/频道里面的乐子。欢迎群友前来投稿。
 
 ### [🌐 冇得医hub 网页](https://nwtfhub.github.io/NWTFhub-web/)
-
-#### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
-
-#### [🌐 官方网站](https://classisland.tech/)｜[📚 项目文档](https://docs.classisland.tech)｜[🗳 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
 
 </div>
 
