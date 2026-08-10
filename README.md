@@ -1,15 +1,15 @@
-<!-- # ClassIsland-Hub
+<!-- # 冇得医hub
 ###### 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿 -->
 
 <div align="center">
 
 <image src="http://m.qpic.cn/psc?/V51UyG6T2hLdbN0oEgHl3fEkH73KqJt7/TmEUgtj9EK6.7V8ajmQrEEsEylM*52lTktZHLze*PTbMCd2wg4o5kkEyKNVsVL9UM5xK4GLClF.TOL*ty*FnqAuxBQmobbAoJ.gYMo62EQY!/mnull&bo=wADAAAAAAAADByI!&rf=photolist&t=5" height="64"/>
 
-# ClassIsland Hub
+# 冇得医hub
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
-### [🌐 ClassIsland Hub 网页](https://hub.classisland.tech/)
+### [🌐 冇得医hub 网页](https://nwtfhub.github.io/NWTFhub-web/)
 
 #### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
@@ -28,7 +28,7 @@
 
 本项目受到 [MCSLTeam/MCSLHub](https://github.com/MCSLTeam/MCSLHub) 的启发而开发。
 
-感谢以下成员对 ClassIsland Hub 提供的贡献：
+感谢以下成员对 冇得医hub 提供的贡献：
 
 <!-- readme: contributors -start -->
 <table>
@@ -403,4 +403,4 @@
 
 >幽默的类是陆地🏝️船坞捡拾官方OICQ小组成员的搞笑片段😆并提交到吉特船坞，使大家满足😌
 >
-[前往 ClassIsland Hub](https://hub.classisland.tech/)
+[前往 冇得医hub](https://nwtfhub.github.io/NWTFhub-web/)
